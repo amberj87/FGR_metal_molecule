@@ -1,0 +1,16 @@
+1836.d0                     !! mass (atomic units)
+1.d-4                       !! V_coup (au)
+900.d0                     !! V_exothermicity (cm-1)
+2000.d0                     !! omg_1 (cm-1)
+20000.d0                    !! V_reorg_1 (cm-1)
+400.d0                      !! omg_2 (cm-1)
+400.d0                      !! gamma (cm-1)
+10.d12                      !! VER_rate (s-1)
+700.d0                      !! temperature (K)
+200                         !! nclass
+1000.d0                     !! wmax (cm-1)
+4000000                      !! n_t
+20.d-15                     !! tmax (s)
+400                         !! nE
+0.032d0                     !! Emax (au)
+x
